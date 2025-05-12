@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2025-05-12
+## [1.0.0] - 2025-05-12
 
 ### Added
 
@@ -23,4 +23,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Dark Lion Theme, Boris Karavasilev
 
 [Unreleased]: https://github.com/Gydunhn/Angular-PrimeNG-Essentials/tree/develop
-[0.1.0]: https://github.com/Gydunhn/Angular-PrimeNG-Essentials/releases/tag/0.1.0
+[1.0.0]: https://github.com/Gydunhn/Angular-PrimeNG-Essentials/releases/tag/1.0.0
