@@ -4,7 +4,7 @@
   "description": "The Essentials Extensions for Angular+PrimeNG Development.",
   "icon": "img/angularprime.png",
   "galleryBanner": {
-    "color": "#fae7b1",
+    "color": "#2596be",
     "theme": "light"
   },
   "license": "LICENSE.md",
