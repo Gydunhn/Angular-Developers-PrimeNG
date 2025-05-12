@@ -2,7 +2,7 @@
   "name": "angular-primeng-essentials",
   "displayName": "Angular PrimeNG Essentials",
   "description": "The Essentials Extensions for Angular+PrimeNG Development.",
-  "icon": "img/angularprime.png",
+  "icon": "img/essentials.png",
   "galleryBanner": {
     "color": "#2596be",
     "theme": "light"
